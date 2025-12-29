@@ -27,3 +27,37 @@ The goal of this project is to understand **why customers leave a telecom servic
 ---
 
 ## 📂 Project Structure
+```
+Telco-Customer-Churn-analysis/
+│
+├── data/
+│ └── Customer_Churn.csv
+│
+├── notebook/
+│ └── TCA.ipynb
+│
+├── README.md
+│
+└── requirements.txt
+```
+
+---
+
+## 📊 Analysis Performed
+- Data loading and basic inspection  
+- Checking data types and missing values  
+- Univariate analysis of individual features  
+- Bivariate analysis between churn and other variables  
+- Visualization of churn patterns using charts and plots  
+
+---
+
+## 📈 Key Insights
+- Customers with **month-to-month contracts** tend to churn more frequently  
+- Higher **monthly charges** are associated with higher churn rates  
+- Customers with **longer tenure** are more likely to stay with the service  
+- Certain services and payment methods show strong relationships with churn  
+
+*(Insights are based on exploratory data analysis results)*
+
+---
