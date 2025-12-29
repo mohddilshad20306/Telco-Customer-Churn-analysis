@@ -30,7 +30,7 @@ The goal of this project is to understand **why customers leave a telecom servic
 ```
 Telco-Customer-Churn-analysis/
 │
-├── data/
+├── dataset/
 │ └── Customer_Churn.csv
 │
 ├── notebook/
