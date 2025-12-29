@@ -1,4 +1,5 @@
 Python
 Pandas
 NumPy 
-Matplotlib Seaborn 
+Matplotlib 
+Seaborn 
